@@ -19,5 +19,3 @@ spring:
         dialect: org.hibernate.dialect.MySQL8Dialect
     hibernate:
       ddl-auto: update
-
-    #Colocar aqui o endereço de contigência para armazenar os arquivos.
